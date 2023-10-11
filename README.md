@@ -1,61 +1,91 @@
+![demo](https://clevertap.com/wp-content/uploads/2018/11/voice-command-app-Incontent-2.gif)
 
-# Shreya's Text-to-Speech Enchantment 🎙️✨
 
-[![GitHub stars ](https://img.shields.io/github/stars/shreyamalogi/Text-To-Speech.svg?style=social)](https://github.com/your-username/Text-To-Speech/stargazers)
+# Text-to-Speech Enchantment 🎙️✨
 
-##  Introduction 🧙‍♂️✨
+ [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Text-To-Speech.svg?style=social)](https://github.com/shreyamalogi/Text-To-Speech/stargazers)
 
-Hey, wizards-in-training! 🌟 [@shreyamalogi](https://github.com/shreyamalogi) here, and I'm super excited to tell you about this cool project I brewed up: the Text-to-Speech (TTS) Enchantment! 
+### DETAILS: 💻🌐📅✍️
 
-### What's the Fuss About? 😯🎤
+- **Functionality** Converts Text to Speech
+- **Tech Stack:** `Python`, `gTTS`, `mpyg321`
+- **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
+- **Year of Project:** 2021
 
-Imagine you type something on your computer, and poof! Your computer reads it out loud in a magical voice. That's exactly what this project does. It's like turning your written words into a magical podcast. 
+---
 
-### How to Make It Work 🐍✨
 
-**Step 1: Get the Magic Recipe**
-- You'll need a special language called Python on your computer. If you don't have it, ask a more experienced wizard to help you install it. 
-- Also, make sure to have the magical ingredient called `gTTS`. You can add it with a magic spell:
-  ```bash
-  pip install gTTS
-  ```
+## Table of Contents
 
-**Step 2: Cast the Spell**
-1. Find a cozy spot on your computer where you can brew your spells.
-2. Open the command wand (you know, the terminal).
-3. Type the following spell to make it work:
-   ```bash
-   python tts.py
-   ```
-4. Your computer will ask you to type something. Go ahead, type anything you want to hear magically!
+- [Introduction](#introduction-%EF%B8%8F)
+- [How to Make It Work](#how-to-make-it-work-)
+- [Extra Tricks (Optional)](#extra-tricks-optional)
+- [Challenges and Solutions](#challenges-and-solutions-%EF%B8%8F)
+- [Contribution](#contribution-)
+- [License](#license-%EF%B8%8F)
+- [Support](#support-)
 
-**Step 3: Hear the Magic**
-- After typing, you'll find a new magical file named "SpeechOutput.mp3" in the same spot where you cast your spell. Click on it, and voila! Your computer is talking! 🎶🔊
+
+## Introduction 🧙‍♂️✨
+
+Hey, wizards-in-training! 🌟 [@shreyamalogi](https://github.com/shreyamalogi) here, and I'm super excited to tell you about this cool project I brewed up: the Text-to-Speech (TTS) Enchantment! Imagine you type something on your computer, and poof! Your computer reads it out loud in a magical voice. That's exactly what this project does. It's like turning your written words into a magical podcast.
+
+## How to Make It Work 🐍✨
+
+### Step 1: Get the Magic Recipe
+
+- You'll need a special language called Python on your computer. If you don't have it, ask a more experienced wizard to help you install it.
+- Also, make sure to have the magical ingredient called gTTS. You can add it with a magic spell:
+
+    ```bash
+    pip install gTTS
+    ```
+
+### Step 2: Cast the Spell
+
+- Find a cozy spot on your computer where you can brew your spells.
+- Open the command wand (you know, the terminal).
+- Type the following spell to make it work:
+
+    ```bash
+    python tts.py
+    ```
+
+  Your computer will ask you to type something. Go ahead, type anything you want to hear magically!
+
+### Step 3: Hear the Magic
+
+After typing, you'll find a new magical file named "SpeechOutput.mp3" in the same spot where you cast your spell. Click on it, and voila! Your computer is talking! 🎶🔊
 
 ### Extra Tricks (Optional)
 
-If you want to make your computer sing the magic words directly from your spellbook (Python script), there's an extra spell called `mpyg321`. To add this spell, just say:
+If you want to make your computer sing the magic words directly from your spellbook (Python script), there's an extra spell called mpyg321. To add this spell, just say:
+
 ```bash
 pip install mpyg321
 ```
 
-## That's It! 
 
-That's the magic of the Text-to-Speech Enchantment! Have fun typing and hearing your computer talk like magic. ✨💬
+## Challenges and Solutions ⚔️💡
 
-Remember, every great wizard started with simple spells. Keep practicing, and you'll become a coding sorcerer in no time! 🚀🔮
+- **Challenge:** Adding smooth transitions to the generated audio.
+
+- **Solution:** Implemented mpyg321 for a seamless and enchanting listening experience.
+
+
 
 ## Contribution 📜✨
 
-Feel the magic within you? Contribute and shape the spellbook as you desire. 
+Feel the magic within you? Contribute and shape the spellbook as you desire.
 
 ## License 🕊️
 
-This project dances under the spell of the [MIT License](LICENSE).
+This project dances under the spell of the MIT License.
 
-Copyright (c) 2020 Shreya Malogi
+MIT License
+
+Copyright (c) 2021 Shreya Malogi
 
 ## Support ⭐🌟
 
 Show your magical support by starring this project on GitHub!
-
