@@ -10,7 +10,7 @@
 - **Functionality** Converts Text to Speech
 - **Tech Stack:** `Python`, `gTTS`, `mpyg321`
 - **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
-- **Year of Project:** 2021
+- **Year of Project:** 2020
 
 ---
 
@@ -84,7 +84,7 @@ This project dances under the spell of the MIT License.
 
 MIT License
 
-Copyright (c) 2021 Shreya Malogi
+Copyright (c) 2020 Shreya Malogi
 
 ## Support ⭐🌟
 
