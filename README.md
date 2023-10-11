@@ -1,7 +1,9 @@
 
 # Shreya's Text-to-Speech Enchantment 🎙️✨
 
-## Beginner's Introduction 🧙‍♂️✨
+[![GitHub stars ](https://img.shields.io/github/stars/shreyamalogi/Text-To-Speech.svg?style=social)](https://github.com/your-username/Text-To-Speech/stargazers)
+
+##  Introduction 🧙‍♂️✨
 
 Hey, wizards-in-training! 🌟 [@shreyamalogi](https://github.com/shreyamalogi) here, and I'm super excited to tell you about this cool project I brewed up: the Text-to-Speech (TTS) Enchantment! 
 
